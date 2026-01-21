@@ -9,7 +9,7 @@ Technology plays a vital role in modern life, and when devices fail, it can be s
 
 
 
-.. image:: https://mcafee-antivirus.readthedocs.io/en/latest/_images/click-here.gif
+.. image:: bookappointment.png
    :alt: My Project Logo
    :width: 400px
    :align: center
